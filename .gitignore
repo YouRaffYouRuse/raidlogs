@@ -6,3 +6,5 @@ RaidLog.pdb
 RaidLog.exe.config
 user.html
 Newtonsoft.Json.xml
+icon_cache
+config.json
